@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 83
+slug  : atom-over-the-box
+seal  : 4b00fb8cc50dea326eb078d7adf8a3d37060869478a53f70f593994b3056d3c9
+prev  : 39d1362d7e3c37b424296d681b1128802520409d9efada91459db92dce5400de
+link  : 86c8136f9517a1fbab6cef52060c9fc1f24129c9d8cbea901128f0888b367561
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
